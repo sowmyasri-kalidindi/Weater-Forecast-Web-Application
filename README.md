@@ -28,6 +28,15 @@ It shows **current weather**, **7-day forecast**, **animated GIFs**, and a **cli
 * 🌧️ Rain → Rain GIF
 * ❄️ Snow → Snow GIF
 
+![Clear Weather](clear.gif)
+
+![Rain Weather](rain.gif)
+
+![Snow Weather](snow.gif)
+
+![Cloud Weather](cloud.gif)
+
+
 ---
 
 # 🛠️ Technologies Used
@@ -129,6 +138,4 @@ in browser
 
 ---
 
-
-# ❤️ Thank You
 
