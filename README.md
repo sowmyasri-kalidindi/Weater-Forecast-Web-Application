@@ -1,4 +1,4 @@
-# 🌦️ Animated Weather Forecast Web App
+# 🌦️ Weather Forecast Web App
 
 A beautiful, animated, and responsive Weather Forecast Web Application built using **HTML, CSS, and JavaScript**.
 It shows **current weather**, **7-day forecast**, **animated GIFs**, and a **climate-based background** depending on the weather condition.
@@ -131,3 +131,4 @@ in browser
 
 
 # ❤️ Thank You
+
